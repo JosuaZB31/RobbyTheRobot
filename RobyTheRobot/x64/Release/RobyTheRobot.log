@@ -1,6 +1,3 @@
-﻿  source.cpp
-  Generating code
-  Previous IPDB and IOBJ mismatch, fall back to full compilation.
-  All 207 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
-  Finished generating code
-  RobyTheRobot.vcxproj -> C:\Users\raouy\OneDrive\Documents\LondonMet Lectures\CU4054-C++ Programming\RobbyTheRobot\RobyTheRobot\x64\Release\RobyTheRobot.exe
+﻿  robby.cpp
+LINK : fatal error C1007: unrecognized flag '-Zc:nrvo' in 'p2'
+LINK : fatal error LNK1257: code generation failed
